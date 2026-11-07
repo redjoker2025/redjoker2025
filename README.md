@@ -1,72 +1,45 @@
-```powershell
-PS C:\Users\RedJoker> Get-Command RedJoker | Format-List *
+<div align="center">
 
-Name        : RedJoker
-CommandType : 小工具作者
-平台        : Windows 重度用户
-信条        : 小工具也可以有温度
-偏好        : 离线 · 绿色 · 单文件 · 不碰用户数据
-主力        : Python / C# (.NET 8)
-工具箱      : OpenCV · WPF · Win32 API · Emgu.CV · PyInstaller · manim
-出没地      : 摄像头、任务栏托盘、系统钩子的第一线
-```
+# 你好，我是 RedJoker 🐋
 
-```powershell
-PS C:\Users\RedJoker> Get-ChildItem .\repos -Verbose
+**Windows 小工具作者 —— 离线 · 绿色 · 单文件 · 不碰用户数据**
 
-d----  face-guard                [Python]  鲸鱼娘护眼神器
-                                       · 离线人脸检测，一贴脸就弹窗报警
-                                       · 悬浮球蓝→红，实时显示你离屏幕多近
-                                       · 单文件免安装，零联网零上传 ⭐
+*小工具也可以有温度。*
 
-d----  redjoker2025.github.io    [HTML]   博客本体
-                                       · 技术干货，更新随缘但篇篇实在
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C# .NET 8](https://img.shields.io/badge/C%23%20.NET%208-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-Win32-0078D4?style=flat-square)
 
-d----  say-chinese-ai-progamming [Python] 中文场景 AI 编程工具
-                                       · 已停止维护，寻找接手人
+[![followers](https://img.shields.io/github/followers/redjoker2025?style=social&label=Follow)](https://github.com/redjoker2025?tab=followers)
+[![stars](https://img.shields.io/github/stars/redjoker2025?affiliations=OWNER&style=social&label=%E6%98%9F%E6%95%B0)](https://github.com/redjoker2025?tab=repositories)
 
-d----  melon-field-os            [Shell]  吃瓜第一线
-```
+</div>
 
-```powershell
-PS C:\Users\RedJoker> Get-EventLog System -Newest 6
+## 🚀 精选项目
 
-时间        事件
-----        ----
-2023.03     注册 GitHub，第一行代码入库
-2025.12     博客上线，开始输出干货
-2026.04     say-chinese-ai-progamming 发布
-2026.05     用 C# 写了个 Verve
-2026.08     melon-field-os 上线
-2026.10     face-guard v2.2 发布 —— 鲸鱼娘正式上岗
-```
+| 🛡️ **face-guard** · 鲸鱼娘护眼神器 | 🌳 **Banyan** · 本地优先笔记 |
+|:---:|:---:|
+| [![face-guard](https://github-readme-stats.vercel.app/api/pin/?username=redjoker2025&repo=face-guard)](https://github.com/redjoker2025/face-guard) | [![Banyan](https://github-readme-stats.vercel.app/api/pin/?username=redjoker2025&repo=Banyan)](https://github.com/redjoker2025/Banyan) |
+| 🔤 **wordnote-local** · 单词记忆本 | 📝 **博客** · 技术干货 |
+| [![wordnote-local](https://github-readme-stats.vercel.app/api/pin/?username=redjoker2025&repo=wordnote-local)](https://github.com/redjoker2025/wordnote-local) | [![博客](https://github-readme-stats.vercel.app/api/pin/?username=redjoker2025&repo=redjoker2025.github.io)](https://redjoker2025.github.io) |
 
-```powershell
-PS C:\Users\RedJoker> Get-Help RedJoker -Examples
-
----------- 示例 1：看博客 ----------
-PS> start redjoker2025.github.io
-    技术干货都在这，欢迎串门。
-
----------- 示例 2：养一只鲸鱼娘 ----------
-PS> Start-Process FaceGuard.exe
-    全程离线、免安装；凑近屏幕会被当场骂回座位。
-
----------- 示例 3：免费的鼓励 ----------
-PS> Invoke-Star face-guard
-    给仓库点个 ⭐，鲸鱼娘会很开心。
-```
-
-```powershell
-PS C:\Users\RedJoker> exit
-
-会话已保存。鲸鱼娘：慢走，路上坐直点 ( ˘•ω•˘ )
-```
-
----
+## 📊 GitHub 数据
 
 <div align="center">
 
-**[博客](https://redjoker2025.github.io)** · **[face-guard](https://github.com/redjoker2025/face-guard)** · ⭐ 是对开源作者最便宜的鼓励
+<img src="https://github-readme-stats.vercel.app/api?username=redjoker2025&show_icons=true&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redjoker2025&layout=compact&hide_border=true" height="165" alt="Top langs" />
+
+</div>
+
+## 📫 找到我
+
+<div align="center">
+
+[![博客](https://img.shields.io/badge/博客-redjoker2025.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://redjoker2025.github.io)
+
+**⭐ 是对开源作者最便宜的鼓励 —— 觉得有用就点一个**
 
 </div>
